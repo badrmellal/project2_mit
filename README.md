@@ -8,7 +8,8 @@ A Retrieval-Augmented Generation (RAG) system with Neural Network-based Reinforc
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badrmellal/project2_mit/blob/main/mitrag_rlhf.ipynb)
 
-![System Demo](https://drive.google.com/file/d/10_64G6wrzoX1TDWNj-UjsOdQ-hDJ6kuV/view?usp=drive_link)
+[🎥 Watch System Demo Video](https://drive.google.com/file/d/10_64G6wrzoX1TDWNj-UjsOdQ-hDJ6kuV/view?usp=drive_link)
+
 
 ## Project Overview
 
